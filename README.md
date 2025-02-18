@@ -1,7 +1,7 @@
-### Simon Garnotel
+Multiphysics simulation engineer, Full Stack developer, DevOps. Open to work, remote only!
 
-Multiphysics simulation engineer at [Airthium](https://airthium.com/)
+Previously multiphysics simulation engineer at [Airthium](https://airthium.com/)
 
-## Main [Tanatloc](https://github.com/Airthium/tanatloc) dev
+## Main [Tanatloc](https://github.com/Airthium/tanatloc) developper
 
 React, Node, Postgres, FreeFEM, Gmsh, OpenCascade, ...
